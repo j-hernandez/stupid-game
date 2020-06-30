@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import GameBoard from './components/GameBoard';
 import ScoreBoard from './components/ScoreBoard';
