@@ -5,7 +5,7 @@ export class ScoreBoard extends Component {
     render() {
         return (
             <div>
-                <h2>Scoreboard</h2>
+                <h2>Scoreboard v2: Electric Boogaloo</h2>
                 <span>{this.props.score}</span><br />
                 <span>Player 1: {this.props.players[0].name}</span><br/>
             </div>
